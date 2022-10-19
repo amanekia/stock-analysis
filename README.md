@@ -16,11 +16,8 @@ After we refactored the code the execution time of the script for 2017 and 2018 
 
 
 ## Results 
-
-- What are the advantages or disadvantages of refactoring code?
-One of the advantages of refactoring code is that it shortens the code making it more easy to comprehend and maintain and in this project it helped to reduce the run time of the code meaning the refactored code was more efficient than the original one. 
-
-One of the challenges I found when refactoring the code was that I came across some new errors in the code which I had to fix.
+- One of the advantages of refactoring code is that it shortens the code making it more easy to comprehend and maintain and in this project it helped to reduce the run time of the code meaning the refactored code was more efficient than the original one.  
+- One of the challenges I found when refactoring the code was that I came across some new errors in the code which I had to fix.
 
 
 
