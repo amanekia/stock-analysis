@@ -15,6 +15,7 @@ After we refactored the code the execution time of the script for 2017 and 2018 
 <img width="295" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/44278585/196553887-cd26bef5-a09f-44d1-ae58-7f53f03d38dd.png">
 
 
+
 ## Results 
 - One of the advantages of refactoring code is that it shortens the code making it more easy to comprehend and maintain and in this project it helped to reduce the run time of the code meaning the refactored code was more efficient than the original one.  
 - One of the challenges I found when refactoring the code was that I came across some new errors in the code which I had to fix.
